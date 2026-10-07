@@ -1,0 +1,11 @@
+node_modules/
+.env
+credenciais/*
+!credenciais/LEIA-ME.txt
+data/*.sqlite
+data/*.sqlite-*
+logs/*
+!logs/.gitkeep
+out/*
+!out/.gitkeep
+*.log

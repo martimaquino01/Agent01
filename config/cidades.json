@@ -1,0 +1,609 @@
+{
+  "_nota": "Sedes de concelho com mais de ~20 mil habitantes (valores aproximados, Censos 2021, em milhares). Pode acrescentar ou remover cidades à vontade. O campo opcional \"consulta\" substitui o nome na pesquisa quando há ambiguidade (ex.: Lagoa do Algarve vs. Lagoa dos Açores).",
+  "cidades": [
+    {
+      "nome": "Lisboa",
+      "regiao": "Continente",
+      "populacaoMilhares": 545
+    },
+    {
+      "nome": "Sintra",
+      "regiao": "Continente",
+      "populacaoMilhares": 385
+    },
+    {
+      "nome": "Vila Nova de Gaia",
+      "regiao": "Continente",
+      "populacaoMilhares": 304
+    },
+    {
+      "nome": "Porto",
+      "regiao": "Continente",
+      "populacaoMilhares": 232
+    },
+    {
+      "nome": "Cascais",
+      "regiao": "Continente",
+      "populacaoMilhares": 214
+    },
+    {
+      "nome": "Loures",
+      "regiao": "Continente",
+      "populacaoMilhares": 201
+    },
+    {
+      "nome": "Braga",
+      "regiao": "Continente",
+      "populacaoMilhares": 193
+    },
+    {
+      "nome": "Almada",
+      "regiao": "Continente",
+      "populacaoMilhares": 177
+    },
+    {
+      "nome": "Matosinhos",
+      "regiao": "Continente",
+      "populacaoMilhares": 172
+    },
+    {
+      "nome": "Amadora",
+      "regiao": "Continente",
+      "populacaoMilhares": 171
+    },
+    {
+      "nome": "Oeiras",
+      "regiao": "Continente",
+      "populacaoMilhares": 171
+    },
+    {
+      "nome": "Seixal",
+      "regiao": "Continente",
+      "populacaoMilhares": 166
+    },
+    {
+      "nome": "Gondomar",
+      "regiao": "Continente",
+      "populacaoMilhares": 164
+    },
+    {
+      "nome": "Guimarães",
+      "regiao": "Continente",
+      "populacaoMilhares": 156
+    },
+    {
+      "nome": "Odivelas",
+      "regiao": "Continente",
+      "populacaoMilhares": 148
+    },
+    {
+      "nome": "Coimbra",
+      "regiao": "Continente",
+      "populacaoMilhares": 140
+    },
+    {
+      "nome": "Vila Franca de Xira",
+      "regiao": "Continente",
+      "populacaoMilhares": 137
+    },
+    {
+      "nome": "Santa Maria da Feira",
+      "regiao": "Continente",
+      "populacaoMilhares": 136
+    },
+    {
+      "nome": "Maia",
+      "regiao": "Continente",
+      "populacaoMilhares": 134
+    },
+    {
+      "nome": "Vila Nova de Famalicão",
+      "regiao": "Continente",
+      "populacaoMilhares": 133
+    },
+    {
+      "nome": "Leiria",
+      "regiao": "Continente",
+      "populacaoMilhares": 128
+    },
+    {
+      "nome": "Setúbal",
+      "regiao": "Continente",
+      "populacaoMilhares": 123
+    },
+    {
+      "nome": "Barcelos",
+      "regiao": "Continente",
+      "populacaoMilhares": 116
+    },
+    {
+      "nome": "Viseu",
+      "regiao": "Continente",
+      "populacaoMilhares": 99
+    },
+    {
+      "nome": "Valongo",
+      "regiao": "Continente",
+      "populacaoMilhares": 94
+    },
+    {
+      "nome": "Mafra",
+      "regiao": "Continente",
+      "populacaoMilhares": 86
+    },
+    {
+      "nome": "Viana do Castelo",
+      "regiao": "Continente",
+      "populacaoMilhares": 85
+    },
+    {
+      "nome": "Paredes",
+      "regiao": "Continente",
+      "populacaoMilhares": 84
+    },
+    {
+      "nome": "Torres Vedras",
+      "regiao": "Continente",
+      "populacaoMilhares": 83
+    },
+    {
+      "nome": "Vila do Conde",
+      "regiao": "Continente",
+      "populacaoMilhares": 80
+    },
+    {
+      "nome": "Aveiro",
+      "regiao": "Continente",
+      "populacaoMilhares": 80
+    },
+    {
+      "nome": "Barreiro",
+      "regiao": "Continente",
+      "populacaoMilhares": 78
+    },
+    {
+      "nome": "Loulé",
+      "regiao": "Continente",
+      "populacaoMilhares": 72
+    },
+    {
+      "nome": "Penafiel",
+      "regiao": "Continente",
+      "populacaoMilhares": 69
+    },
+    {
+      "nome": "Palmela",
+      "regiao": "Continente",
+      "populacaoMilhares": 68
+    },
+    {
+      "nome": "Santo Tirso",
+      "regiao": "Continente",
+      "populacaoMilhares": 67
+    },
+    {
+      "nome": "Faro",
+      "regiao": "Continente",
+      "populacaoMilhares": 67
+    },
+    {
+      "nome": "Oliveira de Azeméis",
+      "regiao": "Continente",
+      "populacaoMilhares": 66
+    },
+    {
+      "nome": "Moita",
+      "regiao": "Continente",
+      "populacaoMilhares": 66
+    },
+    {
+      "nome": "Póvoa de Varzim",
+      "regiao": "Continente",
+      "populacaoMilhares": 64
+    },
+    {
+      "nome": "Portimão",
+      "regiao": "Continente",
+      "populacaoMilhares": 59
+    },
+    {
+      "nome": "Figueira da Foz",
+      "regiao": "Continente",
+      "populacaoMilhares": 58
+    },
+    {
+      "nome": "Santarém",
+      "regiao": "Continente",
+      "populacaoMilhares": 58
+    },
+    {
+      "nome": "Paços de Ferreira",
+      "regiao": "Continente",
+      "populacaoMilhares": 56
+    },
+    {
+      "nome": "Alcobaça",
+      "regiao": "Continente",
+      "populacaoMilhares": 55
+    },
+    {
+      "nome": "Felgueiras",
+      "regiao": "Continente",
+      "populacaoMilhares": 55
+    },
+    {
+      "nome": "Ovar",
+      "regiao": "Continente",
+      "populacaoMilhares": 55
+    },
+    {
+      "nome": "Montijo",
+      "regiao": "Continente",
+      "populacaoMilhares": 55
+    },
+    {
+      "nome": "Évora",
+      "regiao": "Continente",
+      "populacaoMilhares": 53
+    },
+    {
+      "nome": "Amarante",
+      "regiao": "Continente",
+      "populacaoMilhares": 52
+    },
+    {
+      "nome": "Castelo Branco",
+      "regiao": "Continente",
+      "populacaoMilhares": 52
+    },
+    {
+      "nome": "Sesimbra",
+      "regiao": "Continente",
+      "populacaoMilhares": 52
+    },
+    {
+      "nome": "Pombal",
+      "regiao": "Continente",
+      "populacaoMilhares": 51
+    },
+    {
+      "nome": "Caldas da Rainha",
+      "regiao": "Continente",
+      "populacaoMilhares": 51
+    },
+    {
+      "nome": "Marco de Canaveses",
+      "regiao": "Continente",
+      "populacaoMilhares": 50
+    },
+    {
+      "nome": "Vila Real",
+      "regiao": "Continente",
+      "populacaoMilhares": 50
+    },
+    {
+      "nome": "Fafe",
+      "regiao": "Continente",
+      "populacaoMilhares": 49
+    },
+    {
+      "nome": "Covilhã",
+      "regiao": "Continente",
+      "populacaoMilhares": 46
+    },
+    {
+      "nome": "Lousada",
+      "regiao": "Continente",
+      "populacaoMilhares": 46
+    },
+    {
+      "nome": "Águeda",
+      "regiao": "Continente",
+      "populacaoMilhares": 46
+    },
+    {
+      "nome": "Vila Verde",
+      "regiao": "Continente",
+      "populacaoMilhares": 46
+    },
+    {
+      "nome": "Ourém",
+      "regiao": "Continente",
+      "populacaoMilhares": 45
+    },
+    {
+      "nome": "Olhão",
+      "regiao": "Continente",
+      "populacaoMilhares": 45
+    },
+    {
+      "nome": "Albufeira",
+      "regiao": "Continente",
+      "populacaoMilhares": 44
+    },
+    {
+      "nome": "Alenquer",
+      "regiao": "Continente",
+      "populacaoMilhares": 44
+    },
+    {
+      "nome": "Ponte de Lima",
+      "regiao": "Continente",
+      "populacaoMilhares": 41
+    },
+    {
+      "nome": "Guarda",
+      "regiao": "Continente",
+      "populacaoMilhares": 40
+    },
+    {
+      "nome": "Ílhavo",
+      "regiao": "Continente",
+      "populacaoMilhares": 39
+    },
+    {
+      "nome": "Chaves",
+      "regiao": "Continente",
+      "populacaoMilhares": 39
+    },
+    {
+      "nome": "Trofa",
+      "regiao": "Continente",
+      "populacaoMilhares": 38
+    },
+    {
+      "nome": "Silves",
+      "regiao": "Continente",
+      "populacaoMilhares": 37
+    },
+    {
+      "nome": "Tomar",
+      "regiao": "Continente",
+      "populacaoMilhares": 37
+    },
+    {
+      "nome": "Torres Novas",
+      "regiao": "Continente",
+      "populacaoMilhares": 35
+    },
+    {
+      "nome": "Cantanhede",
+      "regiao": "Continente",
+      "populacaoMilhares": 35
+    },
+    {
+      "nome": "Bragança",
+      "regiao": "Continente",
+      "populacaoMilhares": 34
+    },
+    {
+      "nome": "Abrantes",
+      "regiao": "Continente",
+      "populacaoMilhares": 34
+    },
+    {
+      "nome": "Esposende",
+      "regiao": "Continente",
+      "populacaoMilhares": 34
+    },
+    {
+      "nome": "Marinha Grande",
+      "regiao": "Continente",
+      "populacaoMilhares": 33
+    },
+    {
+      "nome": "Lagos",
+      "regiao": "Continente",
+      "populacaoMilhares": 33
+    },
+    {
+      "nome": "Beja",
+      "regiao": "Continente",
+      "populacaoMilhares": 33
+    },
+    {
+      "nome": "Espinho",
+      "regiao": "Continente",
+      "populacaoMilhares": 31
+    },
+    {
+      "nome": "Odemira",
+      "regiao": "Continente",
+      "populacaoMilhares": 29
+    },
+    {
+      "nome": "Benavente",
+      "regiao": "Continente",
+      "populacaoMilhares": 29
+    },
+    {
+      "nome": "Anadia",
+      "regiao": "Continente",
+      "populacaoMilhares": 27
+    },
+    {
+      "nome": "Santiago do Cacém",
+      "regiao": "Continente",
+      "populacaoMilhares": 27
+    },
+    {
+      "nome": "Tavira",
+      "regiao": "Continente",
+      "populacaoMilhares": 26
+    },
+    {
+      "nome": "Peniche",
+      "regiao": "Continente",
+      "populacaoMilhares": 26
+    },
+    {
+      "nome": "Lourinhã",
+      "regiao": "Continente",
+      "populacaoMilhares": 26
+    },
+    {
+      "nome": "Estarreja",
+      "regiao": "Continente",
+      "populacaoMilhares": 26
+    },
+    {
+      "nome": "Tondela",
+      "regiao": "Continente",
+      "populacaoMilhares": 26
+    },
+    {
+      "nome": "Fundão",
+      "regiao": "Continente",
+      "populacaoMilhares": 26
+    },
+    {
+      "nome": "Albergaria-a-Velha",
+      "regiao": "Continente",
+      "populacaoMilhares": 25
+    },
+    {
+      "nome": "Vizela",
+      "regiao": "Continente",
+      "populacaoMilhares": 24
+    },
+    {
+      "nome": "Lamego",
+      "regiao": "Continente",
+      "populacaoMilhares": 24
+    },
+    {
+      "nome": "Cartaxo",
+      "regiao": "Continente",
+      "populacaoMilhares": 24
+    },
+    {
+      "nome": "Lagoa",
+      "regiao": "Continente",
+      "populacaoMilhares": 24,
+      "consulta": "Lagoa, Algarve"
+    },
+    {
+      "nome": "Porto de Mós",
+      "regiao": "Continente",
+      "populacaoMilhares": 23
+    },
+    {
+      "nome": "Vagos",
+      "regiao": "Continente",
+      "populacaoMilhares": 22
+    },
+    {
+      "nome": "Oliveira do Bairro",
+      "regiao": "Continente",
+      "populacaoMilhares": 22
+    },
+    {
+      "nome": "Azambuja",
+      "regiao": "Continente",
+      "populacaoMilhares": 22
+    },
+    {
+      "nome": "Almeirim",
+      "regiao": "Continente",
+      "populacaoMilhares": 22
+    },
+    {
+      "nome": "Salvaterra de Magos",
+      "regiao": "Continente",
+      "populacaoMilhares": 22
+    },
+    {
+      "nome": "Portalegre",
+      "regiao": "Continente",
+      "populacaoMilhares": 22
+    },
+    {
+      "nome": "Arouca",
+      "regiao": "Continente",
+      "populacaoMilhares": 21
+    },
+    {
+      "nome": "São João da Madeira",
+      "regiao": "Continente",
+      "populacaoMilhares": 21
+    },
+    {
+      "nome": "Mirandela",
+      "regiao": "Continente",
+      "populacaoMilhares": 21
+    },
+    {
+      "nome": "Póvoa de Lanhoso",
+      "regiao": "Continente",
+      "populacaoMilhares": 21
+    },
+    {
+      "nome": "Arcos de Valdevez",
+      "regiao": "Continente",
+      "populacaoMilhares": 21
+    },
+    {
+      "nome": "Seia",
+      "regiao": "Continente",
+      "populacaoMilhares": 21
+    },
+    {
+      "nome": "Rio Maior",
+      "regiao": "Continente",
+      "populacaoMilhares": 20
+    },
+    {
+      "nome": "Entroncamento",
+      "regiao": "Continente",
+      "populacaoMilhares": 20
+    },
+    {
+      "nome": "Elvas",
+      "regiao": "Continente",
+      "populacaoMilhares": 20
+    },
+    {
+      "nome": "Ponta Delgada",
+      "regiao": "Açores",
+      "populacaoMilhares": 67
+    },
+    {
+      "nome": "Angra do Heroísmo",
+      "regiao": "Açores",
+      "populacaoMilhares": 34
+    },
+    {
+      "nome": "Ribeira Grande",
+      "regiao": "Açores",
+      "populacaoMilhares": 32,
+      "consulta": "Ribeira Grande, São Miguel, Açores"
+    },
+    {
+      "nome": "Praia da Vitória",
+      "regiao": "Açores",
+      "populacaoMilhares": 20,
+      "consulta": "Praia da Vitória, Terceira, Açores"
+    },
+    {
+      "nome": "Funchal",
+      "regiao": "Madeira",
+      "populacaoMilhares": 105
+    },
+    {
+      "nome": "Santa Cruz",
+      "regiao": "Madeira",
+      "populacaoMilhares": 45,
+      "consulta": "Santa Cruz, Madeira"
+    },
+    {
+      "nome": "Câmara de Lobos",
+      "regiao": "Madeira",
+      "populacaoMilhares": 34
+    },
+    {
+      "nome": "Machico",
+      "regiao": "Madeira",
+      "populacaoMilhares": 20
+    }
+  ]
+}

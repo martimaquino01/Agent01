@@ -1,0 +1,34 @@
+{
+  "name": "elmavere-lead-agent",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Gera listas de PMEs portuguesas sem website, com mensagens de WhatsApp prontas a enviar à mão.",
+  "type": "module",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "gerar": "tsx src/index.ts",
+    "ensaio": "tsx src/index.ts --dry-run --n 5",
+    "testar-ligacoes": "tsx src/index.ts --testar-ligacoes",
+    "so-pesquisa": "tsx src/index.ts --so-pesquisa --n 5",
+    "importar-bloqueados": "tsx src/importarBloqueados.ts",
+    "atalho": "powershell -NoProfile -ExecutionPolicy Bypass -File scripts/instalar-atalho.ps1",
+    "typecheck": "tsc --noEmit",
+    "test": "vitest run"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.131.0",
+    "better-sqlite3": "^12.11.1",
+    "dotenv": "^18.0.6",
+    "googleapis": "^183.0.0",
+    "tsx": "^4.23.15",
+    "zod": "^4.6.5"
+  },
+  "devDependencies": {
+    "typescript": "^5.9.0",
+    "@types/node": "^20.19.0",
+    "@types/better-sqlite3": "^7.6.13",
+    "vitest": "^3.2.4"
+  }
+}

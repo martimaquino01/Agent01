@@ -1,0 +1,82 @@
+{
+  "leadsPorExecucao": 50,
+
+  "custo": {
+    "limiteEurPorExecucao": 3.0,
+    "reservaEurParaMensagens": 0.15,
+    "cambioUsdParaEur": 0.92,
+    "descontarQuotaGratuitaGoogle": true,
+    "quotaGratuitaMensalGoogle": {
+      "placesTextSearchCompleto": 1000,
+      "placesTextSearchNome": 5000,
+      "placesDetails": 1000
+    },
+    "precosUsd": {
+      "placesTextSearchCompletoPor1000": 35.0,
+      "placesTextSearchNomePor1000": 32.0,
+      "placesDetailsPor1000": 20.0,
+      "anthropicInputPorMilhao": 2.0,
+      "anthropicOutputPorMilhao": 10.0,
+      "anthropicCacheEscritaPorMilhao": 2.5,
+      "anthropicCacheLeituraPorMilhao": 0.2,
+      "anthropicPesquisaWebPor1000": 10.0
+    }
+  },
+
+  "filtros": {
+    "minAvaliacoes": 30,
+    "minNota": 4.2,
+    "prefixosTelemovel": ["91", "92", "93", "96"],
+    "dominiosQueNaoContamComoSite": [
+      "facebook.com",
+      "fb.com",
+      "fb.me",
+      "instagram.com",
+      "booksy.com",
+      "fresha.com",
+      "thefork.pt",
+      "thefork.com",
+      "tripadvisor.*",
+      "linktr.ee",
+      "sites.google.com",
+      "business.site",
+      "negocio.site",
+      "wa.me",
+      "api.whatsapp.com"
+    ],
+    "verificarNomeDuplicadoEmPortugal": true,
+    "verificacaoDnsHttp": true,
+    "verificacaoWeb": true,
+    "diasParaVoltarAVerificarDescartados": 90
+  },
+
+  "pesquisa": {
+    "idioma": "pt-PT",
+    "regiao": "PT",
+    "resultadosPorPesquisa": 20,
+    "maxPesquisasPorExecucao": 400
+  },
+
+  "anthropic": {
+    "modelo": "claude-sonnet-5-5",
+    "ferramentaPesquisaWeb": "web_search_20250305",
+    "maxPesquisasWebPorVerificacao": 3,
+    "esforcoVerificacao": "low",
+    "esforcoMensagens": "medium",
+    "usarFallbackAutomatico": true,
+    "maxTentativasMensagens": 4
+  },
+
+  "mensagens": {
+    "ficheiroInstrucoes": "instrucoes-mensagens.md",
+    "maxFrases": 3,
+    "naoContarSaudacaoInicial": true,
+    "palavrasProibidas": ["grátis", "gratis", "gratuito", "gratuita", "de graça", "oferta", "nova agência", "agência nova", "acabámos de abrir"]
+  },
+
+  "sheet": {
+    "blocoManha": "Manhã (10h–12h)",
+    "blocoTarde": "Tarde (15h–17h)",
+    "estados": ["Por enviar", "Enviado", "Respondeu", "Interessado", "Não interessado", "Cliente"]
+  }
+}

@@ -1,0 +1,2 @@
+Coloque aqui o ficheiro JSON da conta de serviço Google (ex.: conta-servico.json).
+Esta pasta está no .gitignore: o conteúdo nunca é enviado para o Git.

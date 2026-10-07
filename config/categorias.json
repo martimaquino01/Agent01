@@ -1,0 +1,415 @@
+[
+  {
+    "setor": "Barbearia",
+    "termo": "barbearia",
+    "tipo": "barber_shop"
+  },
+  {
+    "setor": "Cabeleireiro",
+    "termo": "cabeleireiro",
+    "tipo": "hair_salon"
+  },
+  {
+    "setor": "Restaurante",
+    "termo": "restaurante",
+    "tipo": "restaurant"
+  },
+  {
+    "setor": "Restaurante",
+    "termo": "tasca"
+  },
+  {
+    "setor": "Restaurante",
+    "termo": "churrasqueira"
+  },
+  {
+    "setor": "Café / Snack-bar",
+    "termo": "snack-bar",
+    "tipo": "cafe"
+  },
+  {
+    "setor": "Oficina auto",
+    "termo": "oficina automóvel",
+    "tipo": "car_repair"
+  },
+  {
+    "setor": "Oficina auto",
+    "termo": "mecânico automóvel",
+    "tipo": "car_repair"
+  },
+  {
+    "setor": "Oficina auto",
+    "termo": "bate-chapa e pintura auto"
+  },
+  {
+    "setor": "Pneus",
+    "termo": "pneus e alinhamento de direção"
+  },
+  {
+    "setor": "Clínica veterinária",
+    "termo": "clínica veterinária",
+    "tipo": "veterinary_care"
+  },
+  {
+    "setor": "Escola de condução",
+    "termo": "escola de condução"
+  },
+  {
+    "setor": "Ginásio",
+    "termo": "ginásio",
+    "tipo": "gym"
+  },
+  {
+    "setor": "Estética",
+    "termo": "centro de estética",
+    "tipo": "beauty_salon"
+  },
+  {
+    "setor": "Estética",
+    "termo": "unhas de gel",
+    "tipo": "nail_salon"
+  },
+  {
+    "setor": "Estética",
+    "termo": "depilação"
+  },
+  {
+    "setor": "Massagens",
+    "termo": "massagens terapêuticas"
+  },
+  {
+    "setor": "Canalizador",
+    "termo": "canalizador",
+    "tipo": "plumber"
+  },
+  {
+    "setor": "Eletricista",
+    "termo": "eletricista",
+    "tipo": "electrician"
+  },
+  {
+    "setor": "Carpintaria",
+    "termo": "carpintaria"
+  },
+  {
+    "setor": "Serralharia",
+    "termo": "serralharia"
+  },
+  {
+    "setor": "Lavandaria",
+    "termo": "lavandaria",
+    "tipo": "laundry"
+  },
+  {
+    "setor": "Florista",
+    "termo": "florista",
+    "tipo": "florist"
+  },
+  {
+    "setor": "Ótica",
+    "termo": "ótica"
+  },
+  {
+    "setor": "Fisioterapia",
+    "termo": "fisioterapia",
+    "tipo": "physiotherapist"
+  },
+  {
+    "setor": "Fisioterapia",
+    "termo": "osteopatia"
+  },
+  {
+    "setor": "Contabilidade",
+    "termo": "gabinete de contabilidade",
+    "tipo": "accounting"
+  },
+  {
+    "setor": "Imobiliária local",
+    "termo": "imobiliária",
+    "tipo": "real_estate_agency"
+  },
+  {
+    "setor": "Padaria",
+    "termo": "padaria",
+    "tipo": "bakery"
+  },
+  {
+    "setor": "Pastelaria",
+    "termo": "pastelaria"
+  },
+  {
+    "setor": "Loja de bicicletas",
+    "termo": "loja de bicicletas",
+    "tipo": "bicycle_store"
+  },
+  {
+    "setor": "Oficina de motas",
+    "termo": "oficina de motas"
+  },
+  {
+    "setor": "Estofador",
+    "termo": "estofador"
+  },
+  {
+    "setor": "Sapataria",
+    "termo": "sapataria",
+    "tipo": "shoe_store"
+  },
+  {
+    "setor": "Sapataria",
+    "termo": "sapateiro (reparação de calçado)"
+  },
+  {
+    "setor": "Retrosaria",
+    "termo": "retrosaria"
+  },
+  {
+    "setor": "Costureira",
+    "termo": "arranjos de costura"
+  },
+  {
+    "setor": "Papelaria",
+    "termo": "papelaria"
+  },
+  {
+    "setor": "Drogaria",
+    "termo": "drogaria"
+  },
+  {
+    "setor": "Casa agrícola",
+    "termo": "casa agrícola"
+  },
+  {
+    "setor": "Explicações",
+    "termo": "centro de explicações"
+  },
+  {
+    "setor": "Escola de dança",
+    "termo": "escola de dança"
+  },
+  {
+    "setor": "Tatuagens",
+    "termo": "estúdio de tatuagens"
+  },
+  {
+    "setor": "Lavagem auto",
+    "termo": "lavagem auto",
+    "tipo": "car_wash"
+  },
+  {
+    "setor": "Reboques",
+    "termo": "reboques e assistência em viagem"
+  },
+  {
+    "setor": "Jardinagem",
+    "termo": "jardinagem"
+  },
+  {
+    "setor": "Piscinas",
+    "termo": "manutenção de piscinas"
+  },
+  {
+    "setor": "AVAC",
+    "termo": "ar condicionado instalação"
+  },
+  {
+    "setor": "Serralharia",
+    "termo": "alumínios e caixilharia"
+  },
+  {
+    "setor": "Vidraria",
+    "termo": "vidraceiro"
+  },
+  {
+    "setor": "Pintura",
+    "termo": "pintor de construção civil",
+    "tipo": "painter"
+  },
+  {
+    "setor": "Construção",
+    "termo": "remodelações de casas"
+  },
+  {
+    "setor": "Chaveiro",
+    "termo": "chaves e fechaduras",
+    "tipo": "locksmith"
+  },
+  {
+    "setor": "Mobiliário",
+    "termo": "loja de móveis",
+    "tipo": "furniture_store"
+  },
+  {
+    "setor": "Talho",
+    "termo": "talho"
+  },
+  {
+    "setor": "Peixaria",
+    "termo": "peixaria"
+  },
+  {
+    "setor": "Frutaria",
+    "termo": "frutaria"
+  },
+  {
+    "setor": "Mercearia",
+    "termo": "mercearia"
+  },
+  {
+    "setor": "Garrafeira",
+    "termo": "garrafeira"
+  },
+  {
+    "setor": "Loja de animais",
+    "termo": "loja de animais",
+    "tipo": "pet_store"
+  },
+  {
+    "setor": "Banhos e tosquias",
+    "termo": "banhos e tosquias para cães"
+  },
+  {
+    "setor": "Clínica dentária",
+    "termo": "clínica dentária",
+    "tipo": "dental_clinic"
+  },
+  {
+    "setor": "Podologia",
+    "termo": "podologia"
+  },
+  {
+    "setor": "Psicologia",
+    "termo": "consultório de psicologia"
+  },
+  {
+    "setor": "Nutrição",
+    "termo": "nutricionista"
+  },
+  {
+    "setor": "Pilates / Yoga",
+    "termo": "estúdio de pilates"
+  },
+  {
+    "setor": "Artes marciais",
+    "termo": "academia de artes marciais"
+  },
+  {
+    "setor": "Escola de música",
+    "termo": "escola de música"
+  },
+  {
+    "setor": "Fotografia",
+    "termo": "estúdio de fotografia"
+  },
+  {
+    "setor": "Gráfica",
+    "termo": "gráfica e impressão"
+  },
+  {
+    "setor": "Informática",
+    "termo": "reparação de computadores"
+  },
+  {
+    "setor": "Telemóveis",
+    "termo": "reparação de telemóveis"
+  },
+  {
+    "setor": "Eletrodomésticos",
+    "termo": "reparação de eletrodomésticos"
+  },
+  {
+    "setor": "Relojoaria / Ourivesaria",
+    "termo": "ourivesaria e relojoaria",
+    "tipo": "jewelry_store"
+  },
+  {
+    "setor": "Loja de roupa",
+    "termo": "boutique de roupa",
+    "tipo": "clothing_store"
+  },
+  {
+    "setor": "Loja de noivas",
+    "termo": "vestidos de noiva"
+  },
+  {
+    "setor": "Mediação de seguros",
+    "termo": "mediador de seguros",
+    "tipo": "insurance_agency"
+  },
+  {
+    "setor": "Agência de viagens",
+    "termo": "agência de viagens",
+    "tipo": "travel_agency"
+  },
+  {
+    "setor": "Mudanças",
+    "termo": "empresa de mudanças",
+    "tipo": "moving_company"
+  },
+  {
+    "setor": "Limpezas",
+    "termo": "empresa de limpezas"
+  },
+  {
+    "setor": "Desentupimentos",
+    "termo": "desentupimentos"
+  },
+  {
+    "setor": "Toldos e estores",
+    "termo": "toldos e estores"
+  },
+  {
+    "setor": "Ferragens",
+    "termo": "loja de ferragens",
+    "tipo": "hardware_store"
+  },
+  {
+    "setor": "Material de construção",
+    "termo": "materiais de construção"
+  },
+  {
+    "setor": "Alojamento local",
+    "termo": "alojamento local"
+  },
+  {
+    "setor": "Catering",
+    "termo": "catering para eventos"
+  },
+  {
+    "setor": "Gelataria",
+    "termo": "gelataria"
+  },
+  {
+    "setor": "Centro de inspeções",
+    "termo": "centro de inspeção automóvel"
+  },
+  {
+    "setor": "Stand automóvel",
+    "termo": "stand de automóveis usados",
+    "tipo": "car_dealer"
+  },
+  {
+    "setor": "Rent-a-car",
+    "termo": "rent-a-car"
+  },
+  {
+    "setor": "Táxi / TVDE",
+    "termo": "táxis"
+  },
+  {
+    "setor": "Cerâmica",
+    "termo": "loja de cerâmica e artesanato"
+  },
+  {
+    "setor": "Costura industrial",
+    "termo": "confeções"
+  },
+  {
+    "setor": "Lar / Creche",
+    "termo": "creche"
+  },
+  {
+    "setor": "Centro de estudos",
+    "termo": "centro de estudos ATL"
+  }
+]
