@@ -207,3 +207,12 @@ describe("gerarMensagens", () => {
     expect(linhas[0]!.notas).toBe("");
   });
 });
+
+describe("construirLinhas", () => {
+  it("arredonda a nota a uma casa decimal", () => {
+    const [l] = leadsFalsos(1);
+    l!.lugar.rating = 4.8999999999999995;
+    const d = ordenarEDistribuir([l!], "Manhã", "Tarde");
+    expect(construirLinhas(d, new Map(), "Por enviar")[0]!.nota).toBe(4.9);
+  });
+});
